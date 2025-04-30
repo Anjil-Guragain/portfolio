@@ -1,0 +1,18 @@
+.smth a{
+    color: aqua;
+    font-size: larger;
+    margin: 20px;
+}
+.smth{
+    background-color: brown;
+    text-align: right;
+    margin: 20px;
+    padding: 0px;
+    border-radius: 20px;
+}
+body{
+    background-color: gray;
+}    
+.smth a:hover{
+    color: cornsilk;
+}
